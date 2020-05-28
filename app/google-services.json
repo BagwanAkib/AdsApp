@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266249388429",
+    "firebase_url": "https://adsapp-9d427.firebaseio.com",
+    "project_id": "adsapp-9d427",
+    "storage_bucket": "adsapp-9d427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266249388429:android:165f87cf743c90917a3dc4",
+        "android_client_info": {
+          "package_name": "com.akin.adsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266249388429-397rsam8s5aic8e23kgp2jefhlofsljc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptIOeAg8JGDVUUpw5M4Tatq5GZ_XEr_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266249388429-397rsam8s5aic8e23kgp2jefhlofsljc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
